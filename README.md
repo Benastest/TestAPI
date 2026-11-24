@@ -26,3 +26,11 @@ Das Ziel ist es eine Wetter API für das LF12 Testprojekt zu bekommen und damit 
 3. Gibt es dafür anforderungen die ich beachten muss?
 4. Wie kann ich den Code von Lea mit meinen kombinieren, das wir nichts doppelt haben?
 5. Ist es möglich das der Server den Code von meinem Repository lädt?
+
+
+Ich will diese Aufgabenbearbeitung am besten morgen schon, also dem 25.11.2026 fertig kriegen!
+Dafür muss auf jeden Fall:
+- Die Ordnerstruktur auf die Anforderungen angepasst werden
+- Die Anforderungen des Ergebnisses und der konkreten Arbeitspakete definiert werden.
+- Konzept so einfach und schnell konsiüiert sein das ich das Zeitlich mit ein paar Stunden Einsatz fertig kriege
+Priorität: Hauptsache was funktionierendes abzugeben als nicht abgeben zu können! WIR HABEN ZEITDRUCK!!!
